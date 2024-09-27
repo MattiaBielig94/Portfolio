@@ -1,4 +1,5 @@
 Über mich
+
 Ich bin Psychologiestudent mit einem ausgeprägten Interesse an wissenschaftlicher Forschung und datengetriebenen Analysen. Meine Schwerpunkte liegen im Bereich der kognitiven Psychologie, Verhaltensanalyse und angewandten Statistik. Neben meinem Studium habe ich Erfahrung im Umgang mit wissenschaftlichen Methoden, Datenanalyse und der Anwendung moderner Technologien in der psychologischen Forschung gesammelt.
 
 Auf GitHub dokumentiere ich meine Projekte, die von Datenanalysen psychologischer Datensätze bis hin zur Entwicklung von Modellen zur Vorhersage von Verhaltensweisen reichen. Mein Ansatz ist es, komplexe psychologische Konzepte in datengestützten Modellen zu erfassen und diese für die Praxis nutzbar zu machen.
